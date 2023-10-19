@@ -1,4 +1,4 @@
-### Howdy :v:
+### Hi, there! :v:
 
 I'm Lucas - I'm a front-end developer from São Paulo - Brasil.
 
