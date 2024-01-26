@@ -1,6 +1,5 @@
-<h1 align="center">Hello there.</h1>
+# Hello there!
 
-## Current Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,)](https://skillicons.dev)
 
 ## Listening to:
